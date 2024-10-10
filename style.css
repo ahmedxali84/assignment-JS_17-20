@@ -1,0 +1,14 @@
+*{
+    background-color: rgb(253, 253, 252);
+}
+button{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+h1{
+    font-size: 50px;
+    color: blue;
+}
